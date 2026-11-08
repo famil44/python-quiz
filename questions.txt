@@ -1,0 +1,50 @@
+What is the capital of India?,A. Mumbai,B. Delhi,C. Chennai,D. Kolkata,B
+Which keyword is used to define a function in Python?,A. function,B. define,C. def,D. fun,C
+Which data type is used to store multiple values in Python?,A. int,B. float,C. list,D. string,C
+What is the output of 5 + 3 * 2?,A. 16,B. 11,C. 13,D. 10,B
+Which loop is used when the number of iterations is known?,A. while,B. for,C. do-while,D. repeat,B
+Which symbol is used for comments in Python?,A. //,B. /* */,C. #,D. --,C
+Which function is used to display output in Python?,A. display(),B. write(),C. print(),D. output(),C
+What is the result of len("Python")?,A. 5,B. 6,C. 7,D. 8,B
+Which operator is used to compare two values?,A. =,B. ==,C. :=,D. !=,B
+Which file mode is used to read a file?,A. w,B. a,C. r,D. x,C
+Which keyword is used to create a class in Python?,A. object,B. class,C. define,D. new,B
+Which function is used to get input from the user in Python?,A. scan(),B. gets(),C. input(),D. read(),C
+Which operator is used to find the remainder?,A. /,B. %,C. //,D. **,B
+Which data type stores True or False values?,A. int,B. bool,C. float,D. string,B
+Which method converts a string to uppercase?,A. upper(),B. uppercase(),C. capital(),D. up(),A
+Which function returns the largest value in a list?,A. high(),B. max(),C. largest(),D. top(),B
+Which function returns the smallest value in a list?,A. low(),B. min(),C. smallest(),D. bottom(),B
+Which keyword is used to create a loop in Python?,A. repeat,B. loop,C. for,D. iterate(),C
+Which operator is used for exponentiation?,A. ^,B. **,C. *,D. //,B
+Which function is used to determine the type of a variable?,A. type(),B. typeof(),C. var(),D. datatype(),A
+Which method adds an element to the end of a list?,A. add(),B. append(),C. insert(),D. push(),B
+Which method removes the last element from a list?,A. remove(),B. delete(),C. pop(),D. clear(),C
+Which keyword is used to import a module?,A. include,B. using,C. import,D. require(),C
+Which statement is used to make decisions in Python?,A. switch,B. if,C. choose,D. select,B
+Which keyword is used with if when checking another condition?,A. else if,B. elseif,C. elif,D. otherwise,C
+Which keyword is used when no if condition is true?,A. default,B. else,C. end,D. finally,B
+Which built-in function converts a value to an integer?,A. integer(),B. int(),C. toint(),D. convert(),B
+Which built-in function converts a value to a float?,A. float(),B. decimal(),C. real(),D. double(),A
+Which built-in function converts a value to a string?,A. string(),B. text(),C. str(),D. tostring(),C
+Which collection stores unique values only?,A. list,B. tuple,C. set,D. dictionary,C
+Which collection stores key-value pairs?,A. list,B. set,C. dictionary,D. tuple,C
+Which keyword is used to define a constant in Python?,A. const,B. final,C. There is no constant keyword,D. static,C
+Which loop continues while a condition is true?,A. for,B. while,C. repeat,D. until,B
+Which keyword exits a loop immediately?,A. stop,B. break,C. exit,D. quit(),B
+Which keyword skips the current iteration of a loop?,A. continue,B. pass,C. next,D. skip(),A
+Which statement does nothing when executed?,A. empty,B. null,C. pass,D. continue,C
+Which file mode is used to append data to a file?,A. r,B. w,C. a,D. x,C
+Which file mode creates a new file and fails if it already exists?,A. r,B. x,C. a,D. w,B
+Which module is commonly used to generate random numbers?,A. math,B. random,C. os,D. time,B
+Which function returns a random integer within a range?,A. random(),B. randint(),C. rand(),D. choice(),B
+Which module provides mathematical functions like sqrt()?,A. random,B. math,C. os,D. sys,B
+Which method removes leading and trailing spaces from a string?,A. trim(),B. strip(),C. remove(),D. clean(),B
+Which string method converts text to lowercase?,A. lower(),B. small(),C. down(),D. lowercase(),A
+Which function returns the length of a list?,A. count(),B. size(),C. len(),D. length(),C
+Which keyword is used to define an anonymous function?,A. lambda,B. anonymous,C. func,D. inline(),A
+Which keyword is used to handle exceptions?,A. catch,B. try,C. attempt,D. error,B
+Which keyword is used to catch an exception?,A. except,B. catch,C. error,D. handle,A
+Which keyword is always executed after try and except?,A. end,B. finally,C. finish,D. last,B
+Which keyword is used to raise an exception?,A. throw,B. error,C. raise,D. except,C
+Which module is used to work with dates and times?,A. calendar,B. datetime,C. clock,D. timer,B
